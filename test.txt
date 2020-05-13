@@ -4,3 +4,4 @@ This is my second change.
 Change in first branch.
 
 Change in second branch.
+
